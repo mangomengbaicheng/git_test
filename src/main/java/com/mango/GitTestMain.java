@@ -11,5 +11,6 @@ public class GitTestMain {
         System.out.println("my git1 hot_fix");
         System.out.println("my git master conflict");
         System.out.println("my git hot_fix conflict");
+        System.out.println("my git master push");
     }
 }
